@@ -2,142 +2,142 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 钟声个人博客</title>
-    <link>http://example.org/tags/</link>
+    <link>https://markz-nyc.github.io/tags/</link>
     <description>Recent content in Tags on 钟声个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://markz-nyc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>privacy</title>
-      <link>http://example.org/tags/privacy/</link>
+      <link>https://markz-nyc.github.io/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/privacy/</guid>
+      <guid>https://markz-nyc.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://example.org/tags/shortcodes/</link>
+      <link>https://markz-nyc.github.io/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/shortcodes/</guid>
+      <guid>https://markz-nyc.github.io/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>http://example.org/tags/markdown/</link>
+      <link>https://markz-nyc.github.io/tags/markdown/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/markdown/</guid>
+      <guid>https://markz-nyc.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>http://example.org/tags/text/</link>
+      <link>https://markz-nyc.github.io/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/text/</guid>
+      <guid>https://markz-nyc.github.io/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thumbnail</title>
-      <link>http://example.org/tags/thumbnail/</link>
+      <link>https://markz-nyc.github.io/tags/thumbnail/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/thumbnail/</guid>
+      <guid>https://markz-nyc.github.io/tags/thumbnail/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://example.org/tags/hugo/</link>
+      <link>https://markz-nyc.github.io/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/hugo/</guid>
+      <guid>https://markz-nyc.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://example.org/tags/themes/</link>
+      <link>https://markz-nyc.github.io/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/themes/</guid>
+      <guid>https://markz-nyc.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>configuration</title>
-      <link>http://example.org/tags/configuration/</link>
+      <link>https://markz-nyc.github.io/tags/configuration/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/configuration/</guid>
+      <guid>https://markz-nyc.github.io/tags/configuration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://example.org/tags/development/</link>
+      <link>https://markz-nyc.github.io/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/development/</guid>
+      <guid>https://markz-nyc.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
-      <link>http://example.org/tags/docs/</link>
+      <link>https://markz-nyc.github.io/tags/docs/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/docs/</guid>
+      <guid>https://markz-nyc.github.io/tags/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http://example.org/tags/go/</link>
+      <link>https://markz-nyc.github.io/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/go/</guid>
+      <guid>https://markz-nyc.github.io/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://example.org/tags/golang/</link>
+      <link>https://markz-nyc.github.io/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/golang/</guid>
+      <guid>https://markz-nyc.github.io/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>http://example.org/tags/templates/</link>
+      <link>https://markz-nyc.github.io/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/templates/</guid>
+      <guid>https://markz-nyc.github.io/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>http://example.org/tags/tutorial/</link>
+      <link>https://markz-nyc.github.io/tags/tutorial/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/tutorial/</guid>
+      <guid>https://markz-nyc.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jekyll</title>
-      <link>http://example.org/tags/jekyll/</link>
+      <link>https://markz-nyc.github.io/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/jekyll/</guid>
+      <guid>https://markz-nyc.github.io/tags/jekyll/</guid>
       <description></description>
     </item>
     
