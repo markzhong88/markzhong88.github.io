@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thumbnail on 钟声个人博客</title>
-    <link>https://markzhong88.github.io/tags/thumbnail/</link>
+    <link>https://www.zhongsheng.blog/tags/thumbnail/</link>
     <description>Recent content in thumbnail on 钟声个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://markzhong88.github.io/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://www.zhongsheng.blog/tags/thumbnail/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guide to Thumbnails in Hugo</title>
-      <link>https://markzhong88.github.io/posts/image-test/</link>
+      <link>https://www.zhongsheng.blog/posts/image-test/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://markzhong88.github.io/posts/image-test/</guid>
+      <guid>https://www.zhongsheng.blog/posts/image-test/</guid>
       <description>Thumbnails can be enabled easily by setting the thumbnail parameter in the frontmatter to an image such as &amp;quot;images/landscape.jpg&amp;quot;.
 Make sure to copy the image the static/images/ directory.
 If put together, it will look like this (that&amp;rsquo;s in fact this post&amp;rsquo;s frontmatter):
