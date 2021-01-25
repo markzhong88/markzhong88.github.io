@@ -4,16 +4,31 @@
   
   <url>
     <loc>https://www.zhongsheng.blog/posts/</loc>
-    <lastmod>2021-01-24T09:58:10-05:00</lastmod>
+    <lastmod>2021-01-24T18:19:28-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.zhongsheng.blog/posts/talkski/</loc>
-    <lastmod>2021-01-24T09:58:10-05:00</lastmod>
+    <loc>https://www.zhongsheng.blog/tags/</loc>
+    <lastmod>2021-01-24T18:19:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhongsheng.blog/tags/%E6%BB%91%E9%9B%AA/</loc>
+    <lastmod>2021-01-24T18:19:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhongsheng.blog/posts/skichecklist/</loc>
+    <lastmod>2021-01-24T18:19:28-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.zhongsheng.blog/</loc>
+    <lastmod>2021-01-24T18:19:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.zhongsheng.blog/posts/talkski/</loc>
     <lastmod>2021-01-24T09:58:10-05:00</lastmod>
   </url>
   
@@ -64,11 +79,6 @@
   
   <url>
     <loc>https://www.zhongsheng.blog/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.zhongsheng.blog/tags/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
