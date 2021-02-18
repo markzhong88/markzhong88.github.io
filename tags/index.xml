@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 钟声个人博客</title>
+    <link>https://www.zhongsheng.blog/tags/</link>
+    <description>Recent content in Tags on 钟声个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 31 Jan 2021 16:51:43 -0500</lastBuildDate><atom:link href="https://www.zhongsheng.blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>冥想</title>
+      <link>https://www.zhongsheng.blog/tags/%E5%86%A5%E6%83%B3/</link>
+      <pubDate>Sun, 31 Jan 2021 16:51:43 -0500</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/%E5%86%A5%E6%83%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>读书</title>
+      <link>https://www.zhongsheng.blog/tags/%E8%AF%BB%E4%B9%A6/</link>
+      <pubDate>Sun, 31 Jan 2021 16:51:43 -0500</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/%E8%AF%BB%E4%B9%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>滑雪</title>
+      <link>https://www.zhongsheng.blog/tags/%E6%BB%91%E9%9B%AA/</link>
+      <pubDate>Wed, 27 Jan 2021 20:26:40 -0500</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/%E6%BB%91%E9%9B%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://www.zhongsheng.blog/tags/privacy/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://www.zhongsheng.blog/tags/shortcodes/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://www.zhongsheng.blog/tags/markdown/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://www.zhongsheng.blog/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thumbnail</title>
+      <link>https://www.zhongsheng.blog/tags/thumbnail/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/thumbnail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://www.zhongsheng.blog/tags/hugo/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://www.zhongsheng.blog/tags/themes/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration</title>
+      <link>https://www.zhongsheng.blog/tags/configuration/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://www.zhongsheng.blog/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docs</title>
+      <link>https://www.zhongsheng.blog/tags/docs/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://www.zhongsheng.blog/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://www.zhongsheng.blog/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://www.zhongsheng.blog/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://www.zhongsheng.blog/tags/tutorial/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll</title>
+      <link>https://www.zhongsheng.blog/tags/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.zhongsheng.blog/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
